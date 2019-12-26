@@ -30,3 +30,5 @@ Using the cltk library to try to expand the range of corpora which can be conver
 * **early_silver.model**
 * **christian.model**
 * **augustan.model**
+
+**THIS WORKS ONLY IF YOU HAVE CLTK AND THE CLTK_DATA FOLDER INSTALLED**
